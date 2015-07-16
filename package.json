@@ -1,0 +1,27 @@
+{
+  "name": "csg-translate",
+  "version": "1.0.0",
+  "description": "translate a csg.js solid by a vector",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahdinosaur/csg-translate.git"
+  },
+  "keywords": [
+    "csg",
+    "translate"
+  ],
+  "author": "ahdinosaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/csg-translate/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/csg-translate#readme",
+  "devDependencies": {
+    "csg": "^1.0.1",
+    "tape": "^4.0.0"
+  }
+}
